@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"2e7b6c1107a78470","type":"file","file":"Assets/Images/Reaper Crest.png","x":-260,"y":-220,"width":422,"height":379},
+		{"id":"559d8028f0f98772","type":"text","text":"Red Tool","x":-95,"y":-200,"width":92,"height":60,"color":"1"},
+		{"id":"87b4079647b9c213","type":"text","text":"Yellow Tool","x":40,"y":0,"width":101,"height":57,"color":"3"},
+		{"id":"9a6525450433982a","type":"text","text":"Blue Tool","x":-240,"y":0,"width":86,"height":61,"color":"5"},
+		{"id":"cc28c2b687ee5868","type":"text","text":"Locked Tool","x":-252,"y":-140,"width":107,"height":68,"color":"5"},
+		{"id":"f9a250853791d741","type":"text","text":"Locked Tool","x":38,"y":-143,"width":110,"height":58,"color":"3"},
+		{"id":"5ee410d0e8ebc580","type":"text","text":"Locked Tool","x":-101,"y":67,"width":104,"height":59,"color":"1"},
+		{"id":"328cde7d0013400b","type":"text","text":"Charm Slot","x":67,"y":92,"width":93,"height":65},
+		{"id":"8d9fbb6099e717ff","type":"text","text":"Charm Slot","x":-258,"y":93,"width":93,"height":65}
+	],
+	"edges":[]
+}

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"2579d82f31128336","type":"file","file":"Assets/Images/Wanderer Crest.png","x":-318,"y":-252,"width":388,"height":541},
+		{"id":"b8d544955a75b840","type":"text","text":"Red Tool","x":-165,"y":-247,"width":92,"height":60,"color":"1"},
+		{"id":"550ec8fa7f0a2adc","type":"text","text":"Locked Tool","x":-365,"y":-202,"width":107,"height":68,"color":"5"},
+		{"id":"31b62beaa00513b7","type":"text","text":"Locked Tool","x":0,"y":-200,"width":107,"height":68,"color":"5"},
+		{"id":"0fc235ea5d6b37c8","type":"text","text":"Locked Tool","x":-179,"y":149,"width":110,"height":58,"color":"3"},
+		{"id":"8dfdeac50b28ffed","type":"text","text":"Yellow Tool","x":-327,"y":85,"width":101,"height":57,"color":"3"},
+		{"id":"ec4eeaecae232293","type":"text","text":"Yellow Tool","x":-29,"y":90,"width":101,"height":57,"color":"3"},
+		{"id":"2d8dcf6be56335ea","type":"text","text":"Charm Slot","x":-27,"y":222,"width":93,"height":65},
+		{"id":"b71ef86d47f34d61","type":"text","text":"Charm Slot","x":-315,"y":226,"width":93,"height":65}
+	],
+	"edges":[]
+}

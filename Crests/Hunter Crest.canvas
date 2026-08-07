@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"31568f210f89c4d6","type":"file","file":"Assets/Images/Hunter Crest.png","x":-219,"y":43,"width":397,"height":400},
+		{"id":"608c2bfc6eae52b5","type":"text","text":"Blue Tool","x":-222,"y":369,"width":93,"height":73,"color":"5"},
+		{"id":"3800e5b463de14b5","type":"text","text":"Yellow Tool","x":78,"y":369,"width":97,"height":73,"color":"3"},
+		{"id":"a061db54b49d7726","type":"text","text":"Locked Tool","x":175,"y":294,"width":103,"height":75,"color":"3"},
+		{"id":"4b59b5f23e652545","type":"text","text":"Locked Tool","x":-333,"y":297,"width":111,"height":72,"color":"5"},
+		{"id":"c446130edcdfe9f5","type":"text","text":"Red Tool","x":-58,"y":151,"width":83,"height":60,"color":"1"},
+		{"id":"4f95d2b3a9553d4c","type":"text","text":"Locked Tool","x":-71,"y":465,"width":102,"height":80,"color":"1"},
+		{"id":"9e24c6147245de58","type":"text","text":"Charm Slot","x":-218,"y":42,"width":93,"height":65},
+		{"id":"0bd0432e6e173fe8","type":"text","text":"Charm Slot","x":80,"y":45,"width":97,"height":64}
+	],
+	"edges":[]
+}
