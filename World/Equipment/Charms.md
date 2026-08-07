@@ -1,0 +1,3 @@
+Charms are a special object you find all around Hallownest, there isn't many, but usually most of them have pretty powerful abilities to boot, making them well worth the time and effort required to obtain them. Most crests have 2 charm slots, which can be used to slot a charm in. Each charm is unique however, and they are one of a kind, meaning multiple people cannot use the same charm, so discussions must be made to who thinks they need a charm the most and why it would benefit them.
+
+There are some crests which may gain more or less charm slots, but it usually comes at a cost or provides an additional bonus depending on the crest.
