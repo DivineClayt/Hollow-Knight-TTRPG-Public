@@ -1,3 +1,4 @@
+#Core-Mechanics 
 There are multiple types of actions that you can perform during combat, as shown in the table below:
 
 

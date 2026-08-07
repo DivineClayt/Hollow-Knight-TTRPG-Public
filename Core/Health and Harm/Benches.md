@@ -1,3 +1,4 @@
+#Core-Mechanics 
 Benches are your checkpoints in the TTRPG, when you find a bench and sit, this is classed as a resting phase.
 
 During your resting phase, the following takes place:

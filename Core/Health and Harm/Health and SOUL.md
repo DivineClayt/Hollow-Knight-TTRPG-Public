@@ -1,3 +1,4 @@
+#Core-Mechanics 
 In this TTRPG, there are two core systems that are vital for you to know. Your health and your SOUL.
 
 # Health

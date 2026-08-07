@@ -1,3 +1,4 @@
+#Core-Mechanics 
 # Actions
 When a person wants to do an action, they select one of their rolled dice and assign it to an action, which then happens instantly, any selected dice that have not been used cannot be converted to reactions at the end of the turn, so you must plan ahead for how many actions you think you will need to use.
 

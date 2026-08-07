@@ -1,3 +1,4 @@
+#Core-Mechanics 
 At the start of the round, players and the DM(1 per enemy) draw 1 card from a deck.
 
 The numerical value of the card the person holds equivalates to their initiative, the person with the highest numerical value goes first, then subsequent lower values go next (example, person with 12 goes first, then the person with 11 goes next and so on).
@@ -24,5 +25,7 @@ In the case that two people have cards with the same numeric value, suits in thi
 After the card phase has resolved, we then move to the selection phase, this is where everyone declares how many dice they will roll for their actions and how many they will set aside for reactions.
 
 After everyone has made their choice, everyone rolls their selected dice and puts it aside in their action pool, then turns resolve in numerical ascending to descending order, so the person with the king would act first, then once their actions are resolved then the person with the queen would act next, and so on.
+
+Refer to [[Action System]] and [[Action Types]] for more information regarding what you can do on your turn.
 
 After everyone has acted, including enemies, the card are set aside in a discard pile and everyone draws new cards and the cycle repeats.

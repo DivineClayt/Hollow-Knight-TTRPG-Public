@@ -1,3 +1,4 @@
+#Core-Mechanics
 Everyone passively has a pool of 4d6 which should just be set aside 
 
 Players can choose to roll a number of dice at the start of the round, which gets put in their action pool

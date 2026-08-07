@@ -1,3 +1,4 @@
+#Core-Mechanics 
 The crest system is the foundation of any esteemed traveller or hunter, there are multiple types of crests and they can be swapped out for a different crest. From the start, everyone has a choice of three crests to start with, The Hunter Crest, The Reaper Crest and The Wanderer Crest, but more crests can be found across Hallownest.
 
 All crests can be found in the Crests folder to show their design.
