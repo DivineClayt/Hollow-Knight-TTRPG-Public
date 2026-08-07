@@ -20,6 +20,10 @@ foreach ($folder in $foldersToCopy) {
     }
 }
 
+Remove-Item README.md -ErrorAction SilentlyContinue
+
+Copy-Item -Path $sourceRoot\README.md -Destination $destRoot
+
 git add .
 git commit -m "nerd"
 git push
